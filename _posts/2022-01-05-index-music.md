@@ -1,8 +1,3 @@
----
-layout: post
-title:  "Index: Music"
----
-
 # Music
 
 Work as a jazz pianist...
@@ -18,8 +13,6 @@ Work as a jazz pianist...
 * [Four on Six](https://youtu.be/FdfqtRtC6hY)
 * [Harrisonesque](https://youtu.be/zl4WHKlTXcc)
 * [Crystal Silence](https://youtu.be/VSL9D03vSmA)
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qPmA0NxPsbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Jazzschool (2015)
 * [This is for Albert](https://youtu.be/HMpokm4l36A)
