@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
-page.title: "Brian McCrory"
+headline: "Headline"
+page.title: Brian McCrory
 page.description: brianm.cc
 show_downloads: false
 google_analytics: UA-207659347-6
