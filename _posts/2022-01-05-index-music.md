@@ -13,11 +13,11 @@ Work as a jazz pianist...
 * [Memories of Tomorrow](https://youtu.be/5oxQ38rMb60)
 * [Ceora](https://youtu.be/fgbvIoe-F8s)
 * [Stella By Starlight](https://youtu.be/5d80XyvstaU)
-* Lady With The Pink Fingernails
-* Sea Journey
-* Four on Six
-* Harrisonesque
-* Crystal Silence
+* [Lady With The Pink Fingernails](https://youtu.be/q771UbYKZKw)
+* [Sea Journey](https://youtu.be/r-NIrJUeM5w)
+* [Four on Six](https://youtu.be/FdfqtRtC6hY)
+* [Harrisonesque](https://youtu.be/zl4WHKlTXcc)
+* [Crystal Silence](https://youtu.be/VSL9D03vSmA)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qPmA0NxPsbM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
