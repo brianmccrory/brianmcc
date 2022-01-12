@@ -1,4 +1,4 @@
-remote_theme: minima
+theme: jekyll-theme-slate
 title: brianm.cc
 description: 
 google_analytics: UA-207659347-6
