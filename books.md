@@ -768,13 +768,13 @@
 1. 2 new nonfictions			2005-05-18
 1. Foucault's Pendulum			2005-05-04
 1. More new books			2005-04-19
-1. New (and used) books			2005-04-06
+1. New (and used) books			2005-04-06 Got some things from the bookstores: Inamorata, Joseph Gangemi. Listening To Jazz, Jerry Coker (is this out of print?)What Jazz Is: A Insider's Guide To Understanding and Listening To Jazz, Jonny King. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor) Why all the jazz guides? Lately I've been interested in record reviews and guides which try to explain what jazz exactly is. Currently I'm re-reading Dan Brown's Angels and Demons. Not great literature, but a page-turner with some interesting education also.
 1. Glen David Gold: Carter Beats The Devil			2005-03-16
-1. Today's trip to the library			2005-03-06
-1. Jose Saramago: The Cave			2005-02-25
-1. The Penguin Guide To Jazz on CD, Seventh Edition			2005-02-16
-1. The Reader's Companion			2005-02-15
-1. Everything and More... & Artie Shaw			2005-02-08
-1. Love Me and American Democrat			2005-02-06
-1. Books read in the distant past...			2005-02-06
-1. Why?			2005-02-06
+2. Today's trip to the library			2005-03-06 - Today I picked up four interesting books: What Is This Thing Called Jazz, Batt Johnson. All Music Guide To Jazz, 5th Edition 2002, Jazz 101, John F. Szwed., Carter Beats the Devil, Glen David Gold. I've started reading this and already am engrossed. It reminds me somewhat of a book I read last year - The Amazing Adventures of Kavalier - which I also really enjoyed and will read again sometime.
+3. Jose Saramago: The Cave			2005-02-25
+4. The Penguin Guide To Jazz on CD, Seventh Edition			2005-02-16
+5. The Reader's Companion			2005-02-15
+6. Everything and More... & Artie Shaw			2005-02-08
+7. Love Me and American Democrat			2005-02-06
+8. Books read in the distant past...			2005-02-06 Books Read in the Distant Past (which are not necessarily included in other posts here...)Judy Blume Tales of a Fourth Grade Nothing etc Beverly Cleary Douglas Adams Books Hitchhikers Guide to the Galaxy etc Steven King The Stand etc Clive Barker books Books of Blood Weaveworld etc Dean Koontz Terry Brooks Sword of Shannara Milan Kundera José Saramago W. G. Sebald
+9. Why?			2005-02-06
