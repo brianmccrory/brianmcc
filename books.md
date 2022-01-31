@@ -751,23 +751,23 @@
 
 1. Recent Reading (Japan Trip #3)			2005-12-28		Cloud Atlas, Fraud, Kafka on the Shore, Oracle Night, The Coma, The Woman in the Dunes
 1. David Mitchell: Number9Dream			2005-09-18
-1. The Beach			2005-09-06
-1. Ghostwritten			2005-09-03
-1. The Day of the Triffids			2005-08-24
-1. The Tesseract			2005-08-21
+1. Alex Garland: The Beach			2005-09-06
+1. David Mitchell: Ghostwritten			2005-09-03
+1. John Wyndham: The Day of the Triffids			2005-08-24
+1. Alex Garland: The Tesseract			2005-08-21
 1. Temperament			2005-08-17
 1. Hitomi Kanehara: Snakes and Earrings			2005-08-15
-1. The Final Solution			2005-08-14
+1. Michael Chabon: The Final Solution			2005-08-14
 1. The Rule of Four			2005-08-14
-1. Japan Trip Books (July 21 to Aug 7)			2005-08-07
-1. Tokyo Trip books (Jun 30 to July 5)			2005-07-07
+1. Japan Trip Books (July 21 to Aug 7)			2005-08-07 The Rough Guide to Japan 3rd edition. Time Out Tokyo Edition 4. Lonely Planet Tokyo. The Coma, Alex Garland. The Curious Incident of the Dog in the Night-time, Mark Haddon. Stranger Than Fiction, Chuck Palahniuk. The Rule of Four, Ian Caldwell and Dustin Thomason. Haruki Murakami and the Music of Words, Jay Rubin. The Day of the Triffids, John Wyndham. Monkey Brain Sushi: New Tastes in Japanese Fiction.
+1. Tokyo Trip books (Jun 30 to July 5)			2005-07-07 The Wells of Lost Plots, Jasper Fforde. Rough Guide to Japan, 3rd Edition. Lonely Planet Tokyo City Guide.
 1. The Classic Tradition of Haiku			2005-06-13
 1. Bill Cole: John Coltrane			2005-06-13
-1. Buddhism			2005-06-08
+1. Buddhism			2005-06-08 Huston Smith and Philip Novak Buddhism A Concise Introduction (2004)
 1. Tonight At Noon: A Love Story			2005-06-07
-1. 2 new nonfictions			2005-05-18
+1. 2 new nonfictions			2005-05-18 The Mastery of Music: Ten Pathways to True Artistry (Barry Green). This is co-author of The Inner Game of Music. Mind Wide Open: Your Brain and the Neuroscience of Everyday Life (Steven Johnson)
 1. Foucault's Pendulum			2005-05-04
-1. More new books			2005-04-19
+1. More new books			2005-04-19 1984, Orwell (currently reading... first time!) The Japanese Mind, R. Christopher (currently reading) Shadows of the Rising Sun, J. Taylor The Imperfect Art: Reflections on Jazz and Modern Culture, T. Gioia
 1. New (and used) books			2005-04-06 Got some things from the bookstores: Inamorata, Joseph Gangemi. Listening To Jazz, Jerry Coker (is this out of print?)What Jazz Is: A Insider's Guide To Understanding and Listening To Jazz, Jonny King. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor) Why all the jazz guides? Lately I've been interested in record reviews and guides which try to explain what jazz exactly is. Currently I'm re-reading Dan Brown's Angels and Demons. Not great literature, but a page-turner with some interesting education also.
 1. Glen David Gold: Carter Beats The Devil			2005-03-16
 2. Today's trip to the library			2005-03-06 - Today I picked up four interesting books: What Is This Thing Called Jazz, Batt Johnson. All Music Guide To Jazz, 5th Edition 2002, Jazz 101, John F. Szwed., Carter Beats the Devil, Glen David Gold. I've started reading this and already am engrossed. It reminds me somewhat of a book I read last year - The Amazing Adventures of Kavalier - which I also really enjoyed and will read again sometime.
