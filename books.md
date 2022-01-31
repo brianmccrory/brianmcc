@@ -255,62 +255,50 @@
 
 # 2016
 
-1. 2016 Books in Review			2016-12-31
-1. Jan
-1. 1. “Thank You For Arguing”, Jay Heinrichs. Easily readable book about rhetorical speaking.
-1. 2. “1Q84”, Murakami Haruki. First volume, read in Japanese.
-1. 3. “Pure”, Andrew Miller
-1. 4. “Inferno”, Dan Brown
-1. 5. “Carter Beats the Devil”, Glen David Gould
-1. 6. “The Thousand Autumns of Jacob de Zoet”, David Mitchell
-1. 7. “A Little Life”, Hanya Yanagihara
-1. Feb
-1. 8. “Private Citizens”, Tony Tulathimutte
-1. 9. “Strange Bodies”, Marcel Theroux. One of the unexpected highlights of the year.
-1. 10. “City of Bohane”, Kevin Barry. Interesting lingo and writing.
-1. Mar
-1. 11. “Colorless Tsukuru Tazaki and His Years of Pilgrimage”, Marakami Haruki.
-1. 12. “Moonwalking With Einstein”, Joshoa Foer
-1. 13. “Crimes Against Logic”, Jamie Whyte
-1. 14. “Lexicon”, Max Barry
-1. 15. “The Silkworm”, Robert Galbraith (J.K. Rowling)
-1. 16. “The God Delusion”, Richard Dawkins
-1. Apr
-1. 17. “Thinking Fast and Slow”, Daniel Kahneman
-1. 18. “The Cuckoo’s Calling”, Robert Galbraith (J.K. Rowling)
-1. May
-1. 19. “Atonement”, Ian McEwan. Well-worth several re-reads.
-1. 20. “The Prague Cemetery”, Umberto Eco
-1. 21. “We Are All Completely Beside Ourselves”, Karen Joy Fowler
-1. Jun-Jul
-1. 22. “The God Delusion”, Richard Dawkins
-1. 23.  “The Narrow Road to the Deep North”, Richard Flanagan
-1. 24. “Far North”, Marcel Theroux
-1. 25. “The Farm”, Tom Rob Smith
-1. Aug
-1. 26. “Career of Evil”, Robert Galbraith (J.K. Rowling)
-1. 27. “Under the Skin”, Michel Faber
-1. 28. “The Word Exchange”, Alena Graedon
-1. 29. “The Unknown Terrorist”, Richard Flanagan
-1. 30. “Intuition Pumps and Other Tools for Thinking”, Daniel C. Dennett
-1. 31. “The People In The Trees”, Hanya Yanagihara
-1. Sep
-1. 32. “Crimes Against Logic”, Jamie Whyte
-1. 33. “Quicksand”, Steve Toltz
-1. 34. “The Road To Character”, David Brooks
-1. Oct
-1. 35. “Lights Out In Wonderland”, D.B.C. Pierre
-1. 36. “Lolita”, Vladamir Nabakov
-1. 37. “Thank You For Arguing”, Jay Heinreichs
-1. Nov
-1. 38. “The Children Act”, Ian McEwan
-1. Dec
-1. 39. “The Cuckoo’s Calling”, Robert Galbraith (J.K. Rowling)
-1. 40. “The Farm”, Tom Rob Smith
-1. 41. “Far North”, Michel Theroux
-1. 42. “The Narrow Road to the Deep North”, Richard Flanagan
-1. 43. “Blackjack”, Osamu Tezuka
-1. 44. “The God Delusion”, Richard Dawkins
+1. “Thank You For Arguing”, Jay Heinrichs. Easily readable book about rhetorical speaking.
+1. “1Q84”, Murakami Haruki. First volume, read in Japanese.
+1. “Pure”, Andrew Miller
+1. “Inferno”, Dan Brown
+1. “Carter Beats the Devil”, Glen David Gould
+1. “The Thousand Autumns of Jacob de Zoet”, David Mitchell
+1. “A Little Life”, Hanya Yanagihara
+1. “Private Citizens”, Tony Tulathimutte
+1. “Strange Bodies”, Marcel Theroux. One of the unexpected highlights of the year.
+1. “City of Bohane”, Kevin Barry. Interesting lingo and writing.
+1. “Colorless Tsukuru Tazaki and His Years of Pilgrimage”, Marakami Haruki.
+1. “Moonwalking With Einstein”, Joshoa Foer
+1. “Crimes Against Logic”, Jamie Whyte
+1. “Lexicon”, Max Barry
+1. “The Silkworm”, Robert Galbraith (J.K. Rowling)
+1. “The God Delusion”, Richard Dawkins
+1. “Thinking Fast and Slow”, Daniel Kahneman
+1. “The Cuckoo’s Calling”, Robert Galbraith (J.K. Rowling)
+1. “Atonement”, Ian McEwan. Well-worth several re-reads.
+1. “The Prague Cemetery”, Umberto Eco
+1. “We Are All Completely Beside Ourselves”, Karen Joy Fowler
+1. “The God Delusion”, Richard Dawkins
+1. “The Narrow Road to the Deep North”, Richard Flanagan
+1. “Far North”, Marcel Theroux
+1. “The Farm”, Tom Rob Smith
+1. “Career of Evil”, Robert Galbraith (J.K. Rowling)
+1. “Under the Skin”, Michel Faber
+1. “The Word Exchange”, Alena Graedon
+1. “The Unknown Terrorist”, Richard Flanagan
+1. “Intuition Pumps and Other Tools for Thinking”, Daniel C. Dennett
+1. “The People In The Trees”, Hanya Yanagihara
+1. “Crimes Against Logic”, Jamie Whyte
+1. “Quicksand”, Steve Toltz
+1. “The Road To Character”, David Brooks
+1. “Lights Out In Wonderland”, D.B.C. Pierre
+1. “Lolita”, Vladamir Nabakov
+1. “Thank You For Arguing”, Jay Heinreichs
+1. “The Children Act”, Ian McEwan
+1. “The Cuckoo’s Calling”, Robert Galbraith (J.K. Rowling)
+1. “The Farm”, Tom Rob Smith
+1. “Far North”, Michel Theroux
+1. “The Narrow Road to the Deep North”, Richard Flanagan
+1. “Blackjack”, Osamu Tezuka
+1. “The God Delusion”, Richard Dawkins
 
 # 2015
 
