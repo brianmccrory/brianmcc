@@ -2,7 +2,7 @@
 # 2022
 
 1. Kotaro Isaka: Grasshopper		2022-
-1. Robert Galbraith: Cuckoo's Calling	2022-
+1. Robert Galbraith: Cuckoo's Calling	2022-02-01
 1. Ken Follett: The Man from St. Petersburg	2022-01-26
 1. Henri Charriere: Papillon		2022-01-21
 1. Ken Follett: A Place Called Freedom	2022-01-08
@@ -749,7 +749,12 @@
 
 # 2005
 
-1. Recent Reading (Japan Trip #3)			2005-12-28		Cloud Atlas, Fraud, Kafka on the Shore, Oracle Night, The Coma, The Woman in the Dunes
+1. Cloud Atlas
+1. Fraud
+1. Kafka on the Shore
+1. Oracle Night
+1. The Coma
+1. The Woman in the Dunes
 1. David Mitchell: Number9Dream			2005-09-18
 1. Alex Garland: The Beach			2005-09-06
 1. David Mitchell: Ghostwritten			2005-09-03
@@ -759,22 +764,56 @@
 1. Hitomi Kanehara: Snakes and Earrings			2005-08-15
 1. Michael Chabon: The Final Solution			2005-08-14
 1. The Rule of Four			2005-08-14
-1. Japan Trip Books (July 21 to Aug 7)			2005-08-07 The Rough Guide to Japan 3rd edition. Time Out Tokyo Edition 4. Lonely Planet Tokyo. The Coma, Alex Garland. The Curious Incident of the Dog in the Night-time, Mark Haddon. Stranger Than Fiction, Chuck Palahniuk. The Rule of Four, Ian Caldwell and Dustin Thomason. Haruki Murakami and the Music of Words, Jay Rubin. The Day of the Triffids, John Wyndham. Monkey Brain Sushi: New Tastes in Japanese Fiction.
-1. Tokyo Trip books (Jun 30 to July 5)			2005-07-07 The Wells of Lost Plots, Jasper Fforde. Rough Guide to Japan, 3rd Edition. Lonely Planet Tokyo City Guide.
+1. The Rough Guide to Japan 3rd edition.
+1. Time Out Tokyo Edition 4.
+1. Lonely Planet Tokyo. 
+1. The Coma, Alex Garland.
+1. The Curious Incident of the Dog in the Night-time, Mark Haddon.
+1. Stranger Than Fiction, Chuck Palahniuk.
+1. The Rule of Four, Ian Caldwell and Dustin Thomason. 
+1. Haruki Murakami and the Music of Words, Jay Rubin.
+1. The Day of the Triffids, John Wyndham.
+1. Monkey Brain Sushi: New Tastes in Japanese Fiction.
+1. The Wells of Lost Plots, Jasper Fforde.
+1. Rough Guide to Japan, 3rd Edition.
+1. Lonely Planet Tokyo City Guide.
 1. The Classic Tradition of Haiku			2005-06-13
 1. Bill Cole: John Coltrane			2005-06-13
 1. Buddhism			2005-06-08 Huston Smith and Philip Novak Buddhism A Concise Introduction (2004)
 1. Tonight At Noon: A Love Story			2005-06-07
-1. 2 new nonfictions			2005-05-18 The Mastery of Music: Ten Pathways to True Artistry (Barry Green). This is co-author of The Inner Game of Music. Mind Wide Open: Your Brain and the Neuroscience of Everyday Life (Steven Johnson)
+1. The Mastery of Music: Ten Pathways to True Artistry (Barry Green).
+1. Mind Wide Open: Your Brain and the Neuroscience of Everyday Life (Steven Johnson)
 1. Foucault's Pendulum			2005-05-04
-1. More new books			2005-04-19 1984, Orwell (currently reading... first time!) The Japanese Mind, R. Christopher (currently reading) Shadows of the Rising Sun, J. Taylor The Imperfect Art: Reflections on Jazz and Modern Culture, T. Gioia
-1. New (and used) books			2005-04-06 Got some things from the bookstores: Inamorata, Joseph Gangemi. Listening To Jazz, Jerry Coker (is this out of print?)What Jazz Is: A Insider's Guide To Understanding and Listening To Jazz, Jonny King. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor) Why all the jazz guides? Lately I've been interested in record reviews and guides which try to explain what jazz exactly is. Currently I'm re-reading Dan Brown's Angels and Demons. Not great literature, but a page-turner with some interesting education also.
-1. Glen David Gold: Carter Beats The Devil			2005-03-16
-2. Today's trip to the library			2005-03-06 - Today I picked up four interesting books: What Is This Thing Called Jazz, Batt Johnson. All Music Guide To Jazz, 5th Edition 2002, Jazz 101, John F. Szwed., Carter Beats the Devil, Glen David Gold. I've started reading this and already am engrossed. It reminds me somewhat of a book I read last year - The Amazing Adventures of Kavalier - which I also really enjoyed and will read again sometime.
-3. Jose Saramago: The Cave			2005-02-25
-4. The Penguin Guide To Jazz on CD, Seventh Edition			2005-02-16
-5. The Reader's Companion			2005-02-15
-6. Everything and More... & Artie Shaw			2005-02-08
-7. Love Me and American Democrat			2005-02-06
-8. Books read in the distant past...			2005-02-06 Books Read in the Distant Past (which are not necessarily included in other posts here...)Judy Blume Tales of a Fourth Grade Nothing etc Beverly Cleary Douglas Adams Books Hitchhikers Guide to the Galaxy etc Steven King The Stand etc Clive Barker books Books of Blood Weaveworld etc Dean Koontz Terry Brooks Sword of Shannara Milan Kundera José Saramago W. G. Sebald
-9. Why?			2005-02-06
+2. 1984, Orwell
+3. The Japanese Mind, R. Christopher
+4. Shadows of the Rising Sun, J. Taylor
+5. The Imperfect Art: Reflections on Jazz and Modern Culture, T. Gioia2. Inamorata, Joseph Gangemi.
+6. Listening To Jazz, Jerry Coker
+7. What Jazz Is: A Insider's Guide To Understanding and Listening To Jazz, Jonny King.
+8. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly.
+9. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor)
+10. Dan Brown's Angels and Demons.
+11. 1. Glen David Gold: Carter Beats The Devil			2005-03-16
+12. What Is This Thing Called Jazz, Batt Johnson.
+13. All Music Guide To Jazz, 5th Edition 2002
+14. Jazz 101, John F. Szwed
+15. Carter Beats the Devil, Glen David Gold
+16. Jose Saramago: The Cave			2005-02-25
+17. The Penguin Guide To Jazz on CD, Seventh Edition			2005-02-16
+18. The Reader's Companion			2005-02-15
+19. Everything and More... & Artie Shaw			2005-02-08
+20. Love Me and American Democrat			2005-02-06
+
+# Distant Past
+
+1. Judy Blume Tales of a Fourth Grade Nothing etc 
+2. Beverly Cleary
+3. Douglas Adams Books Hitchhikers Guide to the Galaxy etc 
+4. Steven King The Stand etc 
+5. Clive Barker books Books of Blood Weaveworld etc 
+6. Dean Koontz 
+7. Terry Brooks Sword of Shannara 
+8. Milan Kundera 
+9. José Saramago 
+10. W. G. Sebald
+
