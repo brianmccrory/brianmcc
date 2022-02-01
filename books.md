@@ -779,30 +779,34 @@
 1. Lonely Planet Tokyo City Guide.
 1. The Classic Tradition of Haiku			2005-06-13
 1. Bill Cole: John Coltrane			2005-06-13
-1. Buddhism			2005-06-08 Huston Smith and Philip Novak Buddhism A Concise Introduction (2004)
-1. Tonight At Noon: A Love Story			2005-06-07
-1. The Mastery of Music: Ten Pathways to True Artistry (Barry Green).
-1. Mind Wide Open: Your Brain and the Neuroscience of Everyday Life (Steven Johnson)
-1. Foucault's Pendulum			2005-05-04
-2. 1984, Orwell
-3. The Japanese Mind, R. Christopher
-4. Shadows of the Rising Sun, J. Taylor
-5. The Imperfect Art: Reflections on Jazz and Modern Culture, T. Gioia2. Inamorata, Joseph Gangemi.
-6. Listening To Jazz, Jerry Coker
-7. What Jazz Is: A Insider's Guide To Understanding and Listening To Jazz, Jonny King.
-8. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly.
-9. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor)
-10. Dan Brown's Angels and Demons.
-11. Glen David Gold: Carter Beats The Devil			2005-03-16
-12. What Is This Thing Called Jazz, Batt Johnson.
-13. All Music Guide To Jazz, 5th Edition 2002
-14. Jazz 101, John F. Szwed
-15. Carter Beats the Devil, Glen David Gold
-16. Jose Saramago: The Cave			2005-02-25
-17. The Penguin Guide To Jazz on CD, Seventh Edition			2005-02-16
-18. The Reader's Companion			2005-02-15
-19. Everything and More... & Artie Shaw			2005-02-08
-20. Love Me and American Democrat			2005-02-06
+1. Buddhism			2005-06-08 Huston Smith and Philip Novak
+2. Buddhism A Concise Introduction (2004)
+3. Tonight At Noon: A Love Story			2005-06-07
+4. The Mastery of Music: Ten Pathways to True Artistry (Barry Green).
+5. Mind Wide Open: Your Brain and the Neuroscience of Everyday Life (Steven Johnson)
+6. Foucault's Pendulum			2005-05-04
+7. 1984, Orwell
+8. The Japanese Mind, R. Christopher
+9. Shadows of the Rising Sun, J. Taylor
+10. The Imperfect Art: Reflections on Jazz and Modern Culture, T. Gioia
+11. Inamorata, Joseph Gangemi.
+12. Listening To Jazz, Jerry Coker
+13. What Jazz Is: A Insider's Guide To Understanding and Listening To Jazz, Jonny King.
+14. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly.
+15. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor)
+16. Dan Brown's Angels and Demons.
+17. Glen David Gold: Carter Beats The Devil			2005-03-16
+18. What Is This Thing Called Jazz, Batt Johnson.
+19. All Music Guide To Jazz, 5th Edition 2002
+20. Jazz 101, John F. Szwed
+21. Carter Beats the Devil, Glen David Gold
+22. Jose Saramago: The Cave			2005-02-25
+23. The Penguin Guide To Jazz on CD, Seventh Edition			2005-02-16
+24. The Reader's Companion			2005-02-15
+25. David Foster Wallace's Everything and More... 
+26. Artie Shaw: His Life And Music by John White
+27. Love Me, Garrison Keillor
+28. American Democrat, Garrison Keillor			2005-02-06
 
 # Distant Past
 
