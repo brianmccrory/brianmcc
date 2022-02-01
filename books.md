@@ -793,7 +793,7 @@
 8. The Rough Guide To Jazz, 3rd edition, Ian Carr, Digby Fairweather, Brian Priestly.
 9. The Gramophone Jazz Good CD Guide, Keith Shadwick (editor)
 10. Dan Brown's Angels and Demons.
-11. 1. Glen David Gold: Carter Beats The Devil			2005-03-16
+11. Glen David Gold: Carter Beats The Devil			2005-03-16
 12. What Is This Thing Called Jazz, Batt Johnson.
 13. All Music Guide To Jazz, 5th Edition 2002
 14. Jazz 101, John F. Szwed
