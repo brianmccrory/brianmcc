@@ -2,6 +2,11 @@
 # 2022
 
 1. Kotaro Isaka: Grasshopper		2022-
+
+1. Robert Galbraith: The Silkworm	2022-02-20
+
+1. Ken Follett: The Key to Rebecca	2022-02-
+
 2. Ken Follett: Jackdaws 2022-02-07
 3. Robert Galbraith: Cuckoo's Calling	2022-02-01
 4. Ken Follett: The Man from St. Petersburg	2022-01-26
