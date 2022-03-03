@@ -3,6 +3,7 @@
 
 1. Kotaro Isaka: Grasshopper		2022-
 
+1. Alex Skolnick: Geek to Guitar Hero	2022-03-02
 1. Robert Galbraith: Career of Evil	2022-02-28
 1. Robert Galbraith: The Silkworm	2022-02-20
 2. Ken Follett: The Key to Rebecca 2022-02-12
