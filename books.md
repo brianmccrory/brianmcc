@@ -1,8 +1,13 @@
 
 # 2022
 
-1. Kotaro Isaka: Grasshopper		2022-
+READING: 1. Kotaro Isaka: Grasshopper		2022-
+READING: 1. Clive Barker: The Hellbound Heart (ebook)	2022-03-
+READING: 1. Gary Shteyngart: The Russian Debutante's Handbook			2022-03-
 
+
+1. Joshua Fields Millburn & Ryan Nicodemus: Minimalism: Live a Meaningful Life	2022-03-07
+1. Robert Galbraith: Lethal White	2022-03-06
 1. Alex Skolnick: Geek to Guitar Hero	2022-03-02
 1. Robert Galbraith: Career of Evil	2022-02-28
 1. Robert Galbraith: The Silkworm	2022-02-20
