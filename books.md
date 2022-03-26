@@ -4,8 +4,7 @@
 READING: 1. Kotaro Isaka: Grasshopper		2022-
 
 
-1. Gary Shteyngart: The Russian Debutante's Handbook			2022-03-
-
+1. Gary Shteyngart: The Russian Debutante's Handbook			2022-03-26
 1. Clive Barker: The Hellbound Heart	2022-03-14
 1. Joshua Fields Millburn & Ryan Nicodemus: Minimalism: Live a Meaningful Life	2022-03-07
 1. Robert Galbraith: Lethal White	2022-03-06
