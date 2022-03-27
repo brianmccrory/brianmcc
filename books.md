@@ -3,6 +3,8 @@
 
 READING: 1. Kotaro Isaka: Grasshopper		2022-
 
+READING: 1. Robert Galbraith: Troubled Blood   2022-03-
+
 
 1. Gary Shteyngart: The Russian Debutante's Handbook			2022-03-25
 1. Clive Barker: The Hellbound Heart	2022-03-14
@@ -543,7 +545,7 @@ READING: 1. Kotaro Isaka: Grasshopper		2022-
 1. Rich Dad, Poor Dad			2011-04-11
 1. David Nicholls: The Understudy			2011-04-11
 1. Michael Chabon: The Yiddish Policeman's Union			2011-03-31
-1. David Mitchell: Number9ream			2011-03-30
+1. David Mitchell: Number9Dream			2011-03-30
 1. Thomas Mullen: The Many Deaths of the Firefly Brothers			2011-03-24
 1. David Nicholls: One Day			2011-03-17
 1. Sam Gosling: Snoop			2011-03-16
@@ -690,8 +692,8 @@ READING: 1. Kotaro Isaka: Grasshopper		2022-
 1. Isaac Adamson: Kinki Lullaby			2007-09-13
 1. David Mitchell: Cloud Atlas			2007-09-13
 1. Chuck Palahniuk: Rant			2007-08-04
-1. Stuart			A Life Backwards			2007-07-22
-1. A Wrinkle In Time			2007-07-11
+1. Alexander Masters: Stuart A Life Backwards			2007-07-22
+1. Madeleine L'Engle: A Wrinkle In Time			2007-07-11
 1. Haruki Murakami: After Dark			2007-06-24
 1. Natsuo Kirino: Out			2007-06-24
 1. Peter Farrelly: The Comedy Writer			2007-06-23
@@ -760,21 +762,21 @@ READING: 1. Kotaro Isaka: Grasshopper		2022-
 
 # 2005
 
-1. Cloud Atlas
-1. Fraud
-1. Kafka on the Shore
-1. Oracle Night
-1. The Coma
-1. The Woman in the Dunes
+1. David Mitchell: Cloud Atlas
+1. David Rakoff: Fraud
+1. Haruki Murakami: Kafka on the Shore
+1. Paul Auster: Oracle Night
+1. Alex Garland: The Coma
+1. Kobo Abe: The Woman in the Dunes
 1. David Mitchell: Number9Dream			2005-09-18
 1. Alex Garland: The Beach			2005-09-06
 1. David Mitchell: Ghostwritten			2005-09-03
 1. John Wyndham: The Day of the Triffids			2005-08-24
 1. Alex Garland: The Tesseract			2005-08-21
-1. Temperament			2005-08-17
+1. Stuart Isacoff: Temperament			2005-08-17
 1. Hitomi Kanehara: Snakes and Earrings			2005-08-15
 1. Michael Chabon: The Final Solution			2005-08-14
-1. The Rule of Four			2005-08-14
+1. Ian Caldwell and Dustin Thomason: The Rule of Four			2005-08-14
 1. The Rough Guide to Japan 3rd edition.
 1. Time Out Tokyo Edition 4.
 1. Lonely Planet Tokyo. 
@@ -795,7 +797,7 @@ READING: 1. Kotaro Isaka: Grasshopper		2022-
 3. Tonight At Noon: A Love Story			2005-06-07
 4. The Mastery of Music: Ten Pathways to True Artistry (Barry Green).
 5. Mind Wide Open: Your Brain and the Neuroscience of Everyday Life (Steven Johnson)
-6. Foucault's Pendulum			2005-05-04
+6. Umberto Eco: Foucault's Pendulum			2005-05-04
 7. 1984, Orwell
 8. The Japanese Mind, R. Christopher
 9. Shadows of the Rising Sun, J. Taylor
