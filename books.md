@@ -3,14 +3,18 @@
 
 READING:
 
+1. J. K. Rowling: The Casual Vacancy
+1. Column McCann: Thirteen Ways of Looking
+1. Ken Follett: Night Over Water
 1. Kotaro Isaka: Grasshopper		2022-
-1. Colum McCann: Transatlantic
 1. Steve Toltz: A Fraction of the Whole
 1. Ken Follett: On Wings of Eagles: The Inspiring True Story of One Man's Patriotic Spirit--and His Heroic Mission to Save His Countrymen
-1. Ken Follett: The Third Twin
+1. Colum McCann: Transatlantic
+1. Kazuo Ishiguro: Klara and the Sun
 
 READ:
 
+1. Ken Follett: The Third Twin 2022-04-23
 1. Paolo Bacigalupi: The Windup Girl	2022-04-18
 1. Robert Galbraith: Troubled Blood   2022-04-03
 1. Gary Shteyngart: The Russian Debutante's Handbook			2022-03-25
