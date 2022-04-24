@@ -10,23 +10,23 @@ READING:
 1. Steve Toltz: A Fraction of the Whole
 1. Ken Follett: On Wings of Eagles: The Inspiring True Story of One Man's Patriotic Spirit--and His Heroic Mission to Save His Countrymen
 1. Colum McCann: Transatlantic
-1. Kazuo Ishiguro: Klara and the Sun
 
 READ:
 
-1. Ken Follett: The Third Twin 2022-04-23
-1. Paolo Bacigalupi: The Windup Girl	2022-04-18
-1. Robert Galbraith: Troubled Blood   2022-04-03
+1. Kazuo Ishiguro: Klara and the Sun      2022-04-23
+1. Ken Follett: The Third Twin            2022-04-23
+1. Paolo Bacigalupi: The Windup Girl	    2022-04-18
+1. Robert Galbraith: Troubled Blood       2022-04-03
 1. Gary Shteyngart: The Russian Debutante's Handbook			2022-03-25
-1. Clive Barker: The Hellbound Heart	2022-03-14
+1. Clive Barker: The Hellbound Heart	    2022-03-14
 1. Joshua Fields Millburn & Ryan Nicodemus: Minimalism: Live a Meaningful Life	2022-03-07
-1. Robert Galbraith: Lethal White	2022-03-06
-1. Alex Skolnick: Geek to Guitar Hero	2022-03-02
-1. Robert Galbraith: Career of Evil	2022-02-28
-1. Robert Galbraith: The Silkworm	2022-02-20
-2. Ken Follett: The Key to Rebecca 2022-02-12
-3. Ken Follett: Jackdaws 2022-02-07
-4. Robert Galbraith: Cuckoo's Calling	2022-02-01
+1. Robert Galbraith: Lethal White	        2022-03-06
+1. Alex Skolnick: Geek to Guitar Hero	    2022-03-02
+1. Robert Galbraith: Career of Evil	      2022-02-28
+1. Robert Galbraith: The Silkworm	        2022-02-20
+2. Ken Follett: The Key to Rebecca        2022-02-12
+3. Ken Follett: Jackdaws                  2022-02-07
+4. Robert Galbraith: Cuckoo's Calling	    2022-02-01
 5. Ken Follett: The Man from St. Petersburg	2022-01-26
 6. Henri Charriere: Papillon		2022-01-21
 7. Ken Follett: A Place Called Freedom	2022-01-08
