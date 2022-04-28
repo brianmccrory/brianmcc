@@ -9,10 +9,10 @@ READING:
 1. Kotaro Isaka: Grasshopper		2022-
 1. Steve Toltz: A Fraction of the Whole
 1. Ken Follett: On Wings of Eagles: The Inspiring True Story of One Man's Patriotic Spirit--and His Heroic Mission to Save His Countrymen
-1. Colum McCann: Transatlantic
 
 READ:
 
+1. Colum McCann: Transatlantic			2022-04-28
 1. Kazuo Ishiguro: Klara and the Sun      2022-04-23
 1. Ken Follett: The Third Twin            2022-04-23
 1. Paolo Bacigalupi: The Windup Girl	    2022-04-18
