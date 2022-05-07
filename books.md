@@ -3,7 +3,6 @@
 
 READING:
 
-1. J. K. Rowling: The Casual Vacancy
 1. Column McCann: Thirteen Ways of Looking
 1. Kotaro Isaka: Grasshopper		2022-
 1. Steve Toltz: A Fraction of the Whole
@@ -11,8 +10,9 @@ READING:
 
 READ:
 
-1. Ken Follett: Night Over Water    2022-04-30
-1. Colum McCann: Transatlantic			2022-04-28
+1. J. K. Rowling: The Casual Vacancy      2022-05-06
+1. Ken Follett: Night Over Water          2022-04-30
+1. Colum McCann: Transatlantic			      2022-04-28
 1. Kazuo Ishiguro: Klara and the Sun      2022-04-23
 1. Ken Follett: The Third Twin            2022-04-23
 1. Paolo Bacigalupi: The Windup Girl	    2022-04-18
