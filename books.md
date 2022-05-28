@@ -4,10 +4,10 @@
 READING:
 
 1. Kotaro Isaka: Grasshopper		2022-
-1. Steve Toltz: A Fraction of the Whole
 
 READ:
 
+1. Steve Toltz: A Fraction of the Whole         2022-05-28
 1. Column McCann: Thirteen Ways of Looking      2022-05-17
 1. Ken Follett: On Wings of Eagles        2022-05-14
 1. J. K. Rowling: The Casual Vacancy      2022-05-06
