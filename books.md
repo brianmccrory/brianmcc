@@ -4,6 +4,9 @@
 READING:
 
 1. Kotaro Isaka: Grasshopper		2022-
+1. Alex Skolnick: Geek to Guitar Hero	    2022-06-
+1. Kazuo Ishiguro: Klara and the Sun      2022-06-
+
 
 READ:
 
