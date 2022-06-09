@@ -5,11 +5,11 @@ READING:
 
 1. Kotaro Isaka: Grasshopper		2022-
 1. Alex Skolnick: Geek to Guitar Hero	    2022-06-
-1. Kazuo Ishiguro: Klara and the Sun      2022-06-
 
 
 READ:
 
+1. Kazuo Ishiguro: Klara and the Sun      2022-06-09
 1. Steve Toltz: A Fraction of the Whole         2022-05-28
 1. Column McCann: Thirteen Ways of Looking      2022-05-17
 1. Ken Follett: On Wings of Eagles        2022-05-14
