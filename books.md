@@ -3,6 +3,7 @@
 
 READING:
 
+1. Julian Baggini: The Pig That Wants to Be Eaten     2022-06-
 1. Kotaro Isaka: Grasshopper		2022-
 1. Alex Skolnick: Geek to Guitar Hero	    2022-06-
 
