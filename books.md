@@ -4,6 +4,9 @@
 READING:
 
 1. Kotaro Isaka: Grasshopper		2022-
+1. Ken Follett: Whiteout			2022-
+1. Bill Bryson: Notes From a Small Island    2022-
+
 
 
 READ:
