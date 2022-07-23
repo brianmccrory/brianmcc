@@ -5,12 +5,10 @@ READING:
 
 1. Kotaro Isaka: Grasshopper		2022-
 1. Ken Follett: Whiteout			2022-
-1. Bill Bryson: Notes From a Small Island    2022-
-
-
 
 READ:
 
+1. Bill Bryson: Notes From a Small Island    2022-07-22
 1. Julian Baggini: The Pig That Wants to Be Eaten     2022-07-01
 1. Alex Skolnick: Geek to Guitar Hero	    2022-06-18
 1. Kazuo Ishiguro: Klara and the Sun      2022-06-09
